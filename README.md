@@ -67,3 +67,17 @@ I also created a prevention checklist with important safety tips. This task made
 Overall, this project helped me understand the importance of digital literacy in daily life. I learned how to use different platforms, communicate professionally, and stay safe online. These skills will be very useful for me in my academic journey and future career.
 
 ---
+## Useful Links
+Infographic Tool: https://www.canva.com
+
+Coding Platform: https://www.hackerrank.com
+
+Collaboration Tool: [https://docs.google.com/forms/d/e/1FAIpQLSe7_SjJMjSsKOspuMNwhKq8G-YI4wEjkRrH_CIAKbalTOGIqA/viewform?usp=sharing&ouid=105428725953311809360](https://docs.google.com/forms/d/e/1FAIpQLSckIM0JKGvg71C6-QIL2vCv7mOwdTOoEyEw5amHD5GHdHu-Nw/viewform?usp=publish-editor)
+
+Cyber Crime Portal: https://cybercrime.gov.in
+
+GitHub: https://github.com/  
+
+LinkedIn: https://www.linkedin.com/  
+
+Kaggle: https://www.kaggle.com/
